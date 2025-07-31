@@ -34,4 +34,4 @@ We know the risk of this as just using reconaissance technique a hacker was able
 2)A file named "ipaddresses.txt" which contains the following IP address: 192.168.0.26
 Using this an attacker can do infrastrcuture mapping,internal targeting
 3)A file named "wp-config.bak" which is a backup copy of a wordpress file which contains DB name,DB username and password
-Which an attacker can use to access unauthoruzed content
+Which an attacker can use to access unauthorized content
